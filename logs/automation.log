@@ -1,6 +1,0 @@
-09:06:19.186 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
-09:06:19.210 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
-09:06:21.251 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
-09:06:21.347 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
-09:06:26.628 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
-09:06:28.630 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest  ****
