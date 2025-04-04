@@ -1,0 +1,58 @@
+17:25:35.412 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml"
+17:25:35.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml
+
+17:25:40.771 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+17:25:41.404 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+17:25:41.925 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+17:25:41.932 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+17:25:42.748 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+17:25:43.587 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+17:25:48.807 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
+17:27:25.273 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml"
+17:27:25.560 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml
+
+17:27:30.755 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+17:27:31.216 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+17:27:31.721 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+17:27:31.729 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+17:27:33.984 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+17:27:34.079 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+17:27:38.967 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
+17:29:17.781 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml"
+17:29:18.063 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml
+
+17:29:23.696 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+17:29:23.958 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+17:29:24.562 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+17:29:24.566 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+17:29:26.393 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+17:29:26.492 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+17:29:31.907 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
+17:32:52.307 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml"
+17:32:52.592 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml
+
+17:33:43.753 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml"
+17:33:44.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml
+
+17:33:49.663 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+17:33:49.829 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+17:33:50.385 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+17:33:50.391 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+17:33:52.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+17:33:52.120 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+17:33:57.438 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
+17:46:38.341 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml"
+17:46:38.561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\SHRADHA\eclipse-workspace\OpencartV121\grouping.xml
+
+17:46:43.577 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+17:46:43.828 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+17:46:44.163 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+17:46:44.168 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+17:46:45.286 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+17:46:45.321 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****

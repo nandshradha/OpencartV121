@@ -1,0 +1,48 @@
+17:34:32.556 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+17:34:33.192 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+17:34:33.718 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+17:34:33.724 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+17:34:35.363 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+17:34:35.462 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+17:34:40.469 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
+17:34:42.326 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest  ****
+09:05:27.516 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\master.xml"
+09:05:27.516 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\master.xml"
+09:05:38.648 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+09:05:39.198 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+09:05:39.384 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+09:05:39.889 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+09:05:40.001 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+09:05:40.022 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+09:05:40.500 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+09:05:40.504 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details..
+09:05:41.116 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+09:05:41.832 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message..
+09:05:41.952 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+09:05:42.057 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Finished TC001_AccountRegistrationTest  ****
+09:05:46.947 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
+09:05:47.021 [main] INFO  testCases.TC002_LoginTest - ****  Starting TC002_LoginTest  ****
+09:05:48.986 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest  ****
+09:05:49.071 [main] INFO  testCases.TC002_LoginTest - ****  Finished TC002_LoginTest  ****
+09:05:50.259 [main] ERROR org.testng.reporters.jq.Main - C:\Users\SHRADHA\eclipse-workspace\OpencartV121\target\surefire-reports\jquery-3.6.0.min.js
+java.nio.file.AccessDeniedException: C:\Users\SHRADHA\eclipse-workspace\OpencartV121\target\surefire-reports\jquery-3.6.0.min.js
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:89) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:273) ~[?:?]
+	at java.base/sun.nio.fs.AbstractFileSystemProvider.deleteIfExists(AbstractFileSystemProvider.java:110) ~[?:?]
+	at java.base/java.nio.file.Files.deleteIfExists(Files.java:1192) ~[?:?]
+	at java.base/java.nio.file.Files.copy(Files.java:3152) ~[?:?]
+	at org.testng.reporters.jq.Main.generateReport(Main.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.generateReports(TestNG.java:1158) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1087) [testng-7.8.0.jar:7.8.0]
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308) [surefire-testng-3.2.2.jar:3.2.2]
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71) [surefire-testng-3.2.2.jar:3.2.2]
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113) [surefire-testng-3.2.2.jar:3.2.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385) [surefire-booter-3.2.2.jar:3.2.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162) [surefire-booter-3.2.2.jar:3.2.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507) [surefire-booter-3.2.2.jar:3.2.2]
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495) [surefire-booter-3.2.2.jar:3.2.2]
+09:06:12.909 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\SHRADHA\eclipse-workspace\OpencartV121\master.xml"
+09:06:18.070 [main] INFO  testCases.TC001_AccountRegistrationTest - ****  Starting TC001_AccountRegistrationTest  ****
+09:06:18.692 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
